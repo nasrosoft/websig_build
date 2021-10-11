@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7ed73954.chunk.css",
+    "main.js": "/static/js/main.2849173a.chunk.js",
+    "main.js.map": "/static/js/main.2849173a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c4faafff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c4faafff.js.map",
+    "static/css/2.022f4be9.chunk.css": "/static/css/2.022f4be9.chunk.css",
+    "static/js/2.8a1b34bf.chunk.js": "/static/js/2.8a1b34bf.chunk.js",
+    "static/js/2.8a1b34bf.chunk.js.map": "/static/js/2.8a1b34bf.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.022f4be9.chunk.css.map": "/static/css/2.022f4be9.chunk.css.map",
+    "static/css/main.7ed73954.chunk.css.map": "/static/css/main.7ed73954.chunk.css.map",
+    "static/js/2.8a1b34bf.chunk.js.LICENSE.txt": "/static/js/2.8a1b34bf.chunk.js.LICENSE.txt",
+    "static/media/auth.css": "/static/media/algeria.2af6880c.png",
+    "static/media/index.css": "/static/media/uni-80.8fef0b9a.png",
+    "static/media/logo.be3a6cf2.png": "/static/media/logo.be3a6cf2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4faafff.js",
+    "static/css/2.022f4be9.chunk.css",
+    "static/js/2.8a1b34bf.chunk.js",
+    "static/css/main.7ed73954.chunk.css",
+    "static/js/main.2849173a.chunk.js"
+  ]
+}
